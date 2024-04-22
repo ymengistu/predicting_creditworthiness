@@ -1,0 +1,24 @@
+## Read Me
+
+**Machine Learning for Credit Risk Assessment: Enhancing Loan Approval Decisions in a German Credit Card Company**
+By
+1)	Yitayal Mengistu
+2)	Timothy Hanafin
+3)	Yitayal Mengitsu
+-	Note that this group project was a requirement for the completion of the Big Data course (CIND119) at Toronto Metropolian University by Dr. Syed Murtaza and Dr. Zeikie Aidam. The two professors provided the dataset and guidance on initial setup of the project and follow-up on competition of the project and the output of the project was presented to prof. Zekie Aidam.
+
+-	This team of 3 data scientists mainly conducted the following tasks:
+
+o	Data cleaning and exploratory data Analysis including different ways of feature selection 
+o	implementing two machine learning algorithms (Decision Tree and Naïve base) and 
+o	evaluating the performances of the two ML algorithms 
+o	presented/communicated results/recommendations
+-	This project focuses on leveraging supervised machine learning methods to develop predictive models for assessing the creditworthiness of potential customers. 
+-	The German Credit Card dataset comprising 1000 observations and 21 variables was selected and decision tree and Naïve Bayes classification algorithms were employed to predict whether a potential customer is likely to default or not, aiding in more informed and accurate loan approval decisions.
+ 
+-	The primary objective is to employ decision tree and Naïve Bayes classification algorithms. The dataset encompasses 1000 rows and 20 attributes, providing a diverse range of information for model training and evaluation.
+
+-	Python is sed for implementing and evaluating the machine learning models. These tools offer a powerful and flexible environment for data manipulation, feature engineering, and model training. The utilization of decision tree and Naïve Bayes algorithms aims to capture complex relationships within the data and provide interpretable insights into the factors influencing credit risk.
+
+-	By enhancing the loan approval decision-making process, this project contributes to the efficiency and accuracy of credit risk assessment in a German credit card company, ultimately minimizing the likelihood of defaults and optimizing lending practices. The findings from this study hold significance for financial institutions seeking to leverage machine learning for proactive credit risk management.
+
